@@ -2,7 +2,7 @@
 
 A formal procedure document defining the standard numbering and naming convention for all controlled documents at ARMAX Engineering Ltd.
 
-##Format
+## Format
 [COMPANY] - [DEPT] - [TYPE] - [SEQ] - [REV]
 Example: AEL-ENG-SOP-001-A
 
